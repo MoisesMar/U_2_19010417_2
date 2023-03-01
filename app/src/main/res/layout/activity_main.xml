@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ciclo de vida de una Activity"
+        android:textAlignment="center"
+        android:textSize="28dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alumno"
+        android:textAlignment="center"
+        android:textSize="28dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Moises Martinez Flores"
+        android:textAlignment="center"
+        android:textSize="28dp"/>
+
+    <ImageView
+        android:layout_width="270dp"
+        android:layout_height="290dp"
+        android:layout_gravity="center"
+        android:src="@drawable/pngndroid3modified" />
+
+</LinearLayout>
